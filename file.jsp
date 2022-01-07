@@ -1,7 +1,6 @@
-
 <html>
- <head>
-  <title>Coin Flipper</title>
+<head>
+<title>Coin Flipper</title>
 </head>
 <body>
 <h1>This is Changed Coin Flippers</h1>
